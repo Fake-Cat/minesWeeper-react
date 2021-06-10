@@ -1,5 +1,7 @@
 # Minesweeper
 
+[DEMO](https://mines-weeper.vercel.app/)
+
 ## Используемые технологии
 
 - ReactJS

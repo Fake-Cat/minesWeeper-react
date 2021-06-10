@@ -1,0 +1,13 @@
+.window {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    color: #000;
+    text-align: left;
+    background: #d4d0c8;
+    border-color: #d4d0c8 #222 #222 #d4d0c8;
+    border-style: solid;
+    border-width: 2px;
+}

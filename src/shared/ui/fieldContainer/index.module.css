@@ -1,0 +1,9 @@
+.field_container {
+    position: relative;
+    white-space: nowrap;
+    background: silver;
+    border: solid #fff;
+    padding: 5px 5px 5px 5px;
+    border-width: 0px 0 0 3px;
+   
+}

@@ -1,0 +1,13 @@
+.header {
+    background: linear-gradient(90deg, #0a246a, #a6caf0) 100% 0 no-repeat;
+    background-color: #0a246a;
+    margin: 0;
+    padding: 3px 2px 4px;
+    overflow: hidden;
+    color: #fff;
+    font-size: inherit;
+    line-height: 1;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    user-select: none;
+}

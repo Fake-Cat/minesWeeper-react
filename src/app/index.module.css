@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'TickingTimebombBB';
+    src: local('TickingTimebombBB'),
+        url(../app/fonts/TickingTimebombBB.otf) format('opentype');
+}
+button {
+    padding: 0;
+}
+li {
+    user-select: none;
+}
+
+body {
+    background-color: #038081;
+}

@@ -7,6 +7,9 @@
 - ReactJS
 - Redux
 
+#### Preview
+![](https://github.com/ProhorovDO/MinesWeeper/blob/main/src/app/demo.gif)
+
 ### Сложность
 -  Beginner:
     - width: 9
@@ -23,6 +26,3 @@
     - height: 16
     - mines: 99
     - flags: 99
-
-#### Preview
-![](https://github.com/ProhorovDO/MinesWeeper/blob/main/src/app/demo.gif)

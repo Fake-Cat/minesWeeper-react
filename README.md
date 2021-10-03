@@ -2,13 +2,12 @@
 
 [DEMO](https://mines-weeper.vercel.app/)
 
-## Используемые технологии
-
-- ReactJS
-- Redux
-
 #### Preview
 ![](https://github.com/ProhorovDO/MinesWeeper/blob/main/src/app/demo.gif)
+
+## Используемые технологии
+- ReactJS
+- Redux
 
 ### Сложность
 -  Beginner:
